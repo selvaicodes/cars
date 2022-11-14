@@ -1,5 +1,6 @@
 {"cars": [
-            { "make": "Kia",
+{
+                "make": "Kia",
                 "model": "Sorento",
                 "year": 2020
             },
@@ -53,5 +54,6 @@
                 "model": "F-150",
                 "year": 2021
             }
-        ]
-}
+
+
+]}
